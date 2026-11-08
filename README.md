@@ -23,6 +23,14 @@
 - Hata olursa kurulum otomatik geri alınır
 - Oyun klasöründeki **Türkçe Yamayı Kaldır.exe** ile tek tıkla kaldırma
 
+## Ekran görüntüleri
+
+| | |
+|:---:|:---:|
+| ![Türkçe ana menü](ekran_goruntuleri/01_ana_menu.jpg)<br>Ana menü | ![Açılış anlatımı](ekran_goruntuleri/02_giris.jpg)<br>Açılış anlatımı |
+| ![Diyalog](ekran_goruntuleri/03_diyalog.jpg)<br>Diyalog | ![Durum ve envanter](ekran_goruntuleri/04_envanter.jpg)<br>Durum ve envanter |
+| ![Eşya açıklaması](ekran_goruntuleri/05_esya_aciklamasi.jpg)<br>Eşya açıklaması | |
+
 ## Kurulum
 
 1. Oyunu kapatın, [son sürümden](../../releases/latest) `QueensDomain_TurkceYama_v1.0.0.zip` dosyasını indirip çıkarın.
