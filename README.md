@@ -63,6 +63,6 @@ Hata bildirmek için **Issues** sekmesini kullanın; mümkünse ekran görüntü
 
 Bu bir hayran çevirisidir. *Queen's Domain*, Freshly Baked Games'e aittir; bu proje resmî değildir ve geliştiriciyle bağlantılı değildir. Yama oyunu içermez ve DRM'ye dokunmaz.
 
-Türkçe harf eki [Roboto Slab](https://github.com/googlefonts/robotoslab) yazı tipinden türetilmiştir — Copyright 2018 The Roboto Slab Project Authors, [Apache License 2.0](LICENSE-RobotoSlab.txt). Oyunun kendi yazı tipi dağıtılmaz.
+Türkçe harf eki [Roboto Slab](https://github.com/googlefonts/robotoslab) yazı tipinden türetilmiştir — Copyright 2018 The Roboto Slab Project Authors, [Apache License 2.0](lisanslar/LICENSE-RobotoSlab.txt). Oyunun kendi yazı tipi dağıtılmaz.
 
 Lütfen yamayı izin almadan başka sitelerde yeniden yayınlamayın; bağlantı paylaşmak serbesttir.
